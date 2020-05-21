@@ -1,0 +1,171 @@
+1.Question 1
+What is the genesis block?
+
+
+Any block created by the founder
+
+
+The first block of a Blockchain   ----correct
+
+
+The first transaction in each block
+
+
+The last block created in the Blockchain
+
+Correct
+Correct.
+
+1 / 1 point
+2.Question 2
+Inspect and explore block #0 using this link to solve the below question.
+
+How many transactions are there in the Genesis block in Bitcoin?
+
+
+8893
+
+
+0
+
+
+1   ----correct
+
+
+10
+
+Correct
+Correct.
+
+1 / 1 point
+3.Question 3
+Inspect and explore block #0 using this link to solve the below question.
+
+How many transactions are there in the Genesis block in Ethereum (other than the transaction for Miner fee)?
+
+
+8893   ----correct
+
+
+50
+
+
+1
+
+
+0
+
+Correct
+Correct.
+
+1 / 1 point
+4.Question 4
+Inspect and explore block #490624 using this link to solve the below question.
+
+What is the hash of the previous block for Bitcoin block #490624? Copy and paste the answer into the box below.
+
+ 73effaecabddef72c9b6b738efb131c543370766b93d4cc15db995a9afb1a286
+Incorrect
+Make sure you are checking for the parent hash(hash of the previous block) for the given bitcoin block ID.
+
+Coursera suggests this material
+BETA
+Was this material helpful?
+Blockchain Structure
+Video • 5 min
+0 / 1 point
+5.Question 5
+Inspect and explore block #490624 using this link to solve the below question.
+
+Which of these fields is present in a Bitcoin block summary?
+
+
+Gas Limit
+
+
+Private Key of the Sender
+
+
+Gas Used
+
+
+Difficulty   ----correct
+
+Correct
+Correct.
+
+1 / 1 point
+6.Question 6
+Where are the transactions recorded in a blockchain?
+
+
+On a SQL Database
+
+
+On a SQLite Database
+
+
+On a centralized immutable ledger
+
+
+On a distributed immutable ledger  ----correct
+
+Correct
+Correct.
+
+1 / 1 point
+7.Question 7
+What are UTXOs in a Bitcoin Blockchain?
+
+
+These are transaction output that has been expended
+
+
+These form the inputs and outputs for transactions   ----correct
+
+
+These are rewards for miners
+
+
+These are actual currency that is sent to the receiver of a transaction
+
+Correct
+Correct.
+
+1 / 1 point
+8.Question 8
+Blockchain was created to support security and trust in a ___________ environment of the cryptocurrency Bitcoin.
+
+
+decentralized trustless   ----correct
+
+
+centralized trustless
+
+
+decentralized trusted
+
+
+centralized trusted
+
+Correct
+Correct!
+
+1 / 1 point
+9.Question 9
+What/Who are miners in a blockchain?
+
+
+Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks   ----correct
+
+
+A person who receives money as the receiver of the transaction
+
+
+An algorithm that you can use to calculate the next block in a blockchain
+
+
+A person who just initiates a transaction in the blockchain
+
+Correct
+Correct.
