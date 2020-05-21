@@ -1,0 +1,49 @@
+1.Question 1
+The algorithm for consensus in the Bitcoin blockchain is called _____ protocol.
+
+
+Proof of Stake
+
+
+Proof of Work  -------correct
+
+
+Proof of Worth
+
+
+Proof of Elapsed Time
+
+Correct
+Correct! It gets its name because it involves “work” or computational power to solve the puzzle and to claim the right to form the next block.
+
+1 / 1 point
+2.Question 2
+Transaction confirmation is independently performed by all miner nodes. True or False?
+
+
+False
+
+
+True    -------correct
+
+Correct
+Correct! Miners, take on added work or computation to verify transactions, broadcast transactions, compete to claim the right to create a block, work on reaching consensus by validating the block, broadcasting the newly created block and confirming transactions.
+
+1 / 1 point
+3.Question 3
+Transaction 0 in every block in the bitcoin blockchain ____.
+
+
+is for paying the miner fees.
+
+
+does not have any input UTXO.
+
+
+is called the coinbase transaction
+
+
+All of the above.   -------correct
+
+Correct
+Correct!
