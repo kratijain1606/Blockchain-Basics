@@ -1,0 +1,68 @@
+1.Question 1
+In Ethereum, the block hash is the hash of all the elements in the _________ .
+
+
+Transaction hash tree
+
+
+Block header   -----------------correct
+
+
+State tree
+
+
+Receipt tree
+
+Correct
+Correct!
+
+1 / 1 point
+2.Question 2
+Merkle tree hash is used for computing _________ hash.
+
+
+state root
+
+
+transaction root
+
+
+receipt root
+
+
+all of the above  ----------------------correct
+
+Correct
+Correct!
+
+1 / 1 point
+3.Question 3
+Block hash allows for the formation of the chain link by embedding previous block hash in the current block header. True or False?
+
+
+True  ----------------correct
+
+
+False
+
+Correct
+Correct!
+
+1 / 1 point
+4.Question 4
+If a participant node tampers with a block, it results in ____.
+
+
+hash changing
+
+
+mismatch of hash values
+
+
+the local chain of node rendered in an invalid state
+
+
+All of the above  --------------------correct
+
+Correct
+Correct!
