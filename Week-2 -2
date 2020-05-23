@@ -1,0 +1,152 @@
+1.Question 1
+Inspect and explore block #4390176 using this link to solve the below question.
+
+What is the previous block hash of block #4390176 in Ethereum Blockchain? Provide the answer in the box below.
+
+ 0xc253f0917b33b2947b4d9cdb7ad656cc0233ef1781984384284f3a91810a8a36
+Correct
+Correct!
+
+1 / 1 point
+2.Question 2
+Inspect and explore block #4390176 using this link to solve the below question.
+
+What is the total difficulty for block #4390176 in Ethereum Blockchain? Provide the answer in the box below.
+
+1,226,797,074,502,984,598,563
+Correct
+Correct!
+
+1 / 1 point
+3.Question 3
+Inspect and explore the transaction with the hash “0x5edb69874d0900d8857468fbe53715cc1a58137709b8b70e46299bf10983dc09“ using this link.
+
+Approximately, how many Ethers are transferred in this transaction?
+
+
+0.00042 ethers
+
+
+4434720 ethers
+
+
+913.268 ethers --------------correct
+
+
+21000 ethers
+
+Correct
+Correct!
+
+1 / 1 point
+4.Question 4
+Inspect and explore the transaction with the hash “0x5edb69874d0900d8857468fbe53715cc1a58137709b8b70e46299bf10983dc09“ using this link.
+
+What is the address of the sender in this transaction? Provide the answer below in the textbox.
+
+0xf9fba58d8345bd3100c5adf3b8b51938e5da0a9d
+Correct
+Correct!
+
+1 / 1 point
+5.Question 5
+Which of the following is true about an externally owned account (EOA) in Ethereum Homestead?
+
+
+EOAs have associated code with them.
+
+
+EOAs execute code when triggered by a transaction.
+
+
+EOAs can send transactions (ether transfer or invoke a contract code)  -----------correct
+
+Correct
+Correct!
+
+1 / 1 point
+6.Question 6
+External Owned Accounts (EOA) are controlled by ____.
+
+
+Private Key  --------------correct
+
+
+Public Key and Private Key
+
+
+Public Key
+
+
+Hash of the first transaction by that account
+
+Correct
+Correct!
+
+1 / 1 point
+7.Question 7
+What is the differentiating factor between the Ethereum Blockchain and the Bitcoin blockchain?
+
+
+Distributed ledger
+
+
+Smart contracts  ----------correct
+
+
+Wallets
+
+
+Currency Exchange
+
+Correct
+Correct!
+
+1 / 1 point
+8.Question 8
+Calculate the amount of gas points required to execute an operation that involves 2 steps and 1 load from memory. Use the following image.
+
+
+
+42
+
+
+22  ------------correct
+
+
+23
+
+
+1
+
+Correct
+Correct!
+
+1 / 1 point
+9.Question 9
+What is the correct sequence involved in a block creation:
+
+1. Transactions validated
+
+2. Transactions Bundled & broadcasted
+
+3. Transaction initiated
+
+4. Block added to the local chain and propagated to the network.
+
+5. Proof of work consensus problem solved
+
+
+5,3,1,2,4
+
+
+3,2,1,4,5
+
+
+3,1,2,5,4 -------------correct
+
+
+1,2,3,4,5
+
+Correct
+Correct!
