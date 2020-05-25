@@ -1,0 +1,39 @@
+1.Question 1
+A popular public-private key implementation known as Rivest-Shamir-Adelman (RSA) algorithm is used for the Bitcoin and Ethereum Blockchain. True or False?
+
+
+False    ✔
+
+
+True
+
+Correct
+Correct!
+
+1 / 1 point
+2.Question 2
+For the simple symmetric key example discussed in the lecture, it is easy to derive the “secret” key from the encrypted data. True or False?
+
+
+False     
+
+
+True       ✔
+
+Correct
+Correct! Please note that symmetric keys have other issues such (i) key distribution -- how do you send the key to the parties involved (ii) you need to create different secret key for different receivers, you cannot share the same key with different participants.
+
+On the contrary, in a public-key encryption, you can publish the public key for any participant to use and not reveal the private key.
+
+1 / 1 point
+3.Question 3
+256 bit ECC key-pair is equivalent in strength to approximately 3072-bit RSA key-pair. Thus ECC is much stronger encryption than RSA method. True or False?
+
+
+True    ✔
+
+
+False
+
+Correct
+Correct!
