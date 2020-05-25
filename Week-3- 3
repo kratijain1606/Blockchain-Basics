@@ -1,0 +1,17 @@
+1.Question 1
+Digital signing of a transaction/document involves, hashing the content of the document and then ____.
+
+
+encrypting it with private key     ✔  
+
+
+encrypting it with public key
+
+
+rehashing it
+
+
+encrypting it with nonce
+
+Correct
+Correct!
