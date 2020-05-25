@@ -1,0 +1,68 @@
+1.Question 1
+What is one of the requirements of secure hashing function?
+
+
+It is a secret function
+
+
+It is log function
+
+
+It is an ECC function
+
+
+It is a one way function    ✔
+
+Correct
+Correct!
+
+1 / 1 point
+2.Question 2
+What type of hash is used when there is a fixed number of items to be hashed, such as the items in a block header, and we are verifying the composite block integrity?
+
+
+Either
+
+
+Complex hash
+
+
+Tree-structured Hash
+
+
+Simple Hash       ✔
+
+Correct
+Correct!
+
+1 / 1 point
+3.Question 3
+What type of hash function is used, when there is variable number of items to be hashed, such as the many state changes in a block?
+
+
+Simple Hash
+
+
+Complex hash
+
+
+Tree-structured Hash        ✔
+
+
+Either
+
+Correct
+Correct!
+
+1 / 1 point
+4.Question 4
+Keccak 256 is a commonly used algorithm for hash generation in Ethereum blockchain. True or False?
+
+
+True          ✔
+
+
+False
+
+Correct
+Correct!
